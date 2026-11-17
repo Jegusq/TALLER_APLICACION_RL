@@ -131,3 +131,6 @@ dmypy.json
 data/new_version/
 
 data/
+
+# Checkpoints del Ejercicio 4 (se regeneran al ejecutar el notebook)
+Ejercicio_4/checkpoints/
